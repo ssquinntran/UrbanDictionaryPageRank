@@ -1,4 +1,5 @@
 Run PageRank on Urban Dictionary
+Brian Xie, Emily Miller, Quinn Tran
 Main Idea:
 Run Pagerank on a root (word) to find the most popular words synonymous to the root word’s definition. Extension: Find out which words are trending since it is entirely users contribute to the relationship links between words.
 Urbandictionary creates a page for each word entry, which may have multiple definitions for a given word. These pages are connected to one another in three ways:
